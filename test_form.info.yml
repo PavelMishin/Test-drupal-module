@@ -2,3 +2,4 @@ name: 'Test Form'
 description: 'Simple test form for sending message to admin'
 core: 8.x
 type: module
+package: Custom

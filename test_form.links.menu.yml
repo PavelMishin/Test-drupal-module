@@ -1,7 +1,6 @@
 test_form.form:
   title: 'Test contact form'
   description: 'Test task'
-  parent: footer
   route_name: test_form.form
   weight: 10
   menu_name: main
